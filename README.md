@@ -1,0 +1,2 @@
+# stqamini
+Movie booking website
